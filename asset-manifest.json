@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a8bd002.css",
+    "main.js": "/static/js/main.d8b87da9.js",
+    "static/js/453.2edc2088.chunk.js": "/static/js/453.2edc2088.chunk.js",
+    "static/media/vector-light-bulb-icon.jpg": "/static/media/vector-light-bulb-icon.5ff6ace30e6f0c0046d3.jpg",
+    "static/media/banner_2.png": "/static/media/banner_2.78c8cebd4b1afdd97880.png",
+    "static/media/Feature-Background.jpg": "/static/media/Feature-Background.da94f0127bda49d6151f.jpg",
+    "static/media/home-slider-1718709062-sms.jpg": "/static/media/home-slider-1718709062-sms.18fd442ff476e2f1862d.jpg",
+    "static/media/bg1-1024x493.png": "/static/media/bg1-1024x493.93ffd3ab8d4ded4433c7.png",
+    "static/media/building-management-system-Final.jpg": "/static/media/building-management-system-Final.c5536a88b765d1414868.jpg",
+    "static/media/lit-windows-of-tall-apartment-building-at-night-urban-backdrop-silhouette-concept-free-photo-1024x574.jpg": "/static/media/lit-windows-of-tall-apartment-building-at-night-urban-backdrop-silhouette-concept-free-photo-1024x574.bfb2528db554d599cd1d.jpg",
+    "static/media/pngtree-searching-hostel-banner-hotel-journey-image_1091602.jpg": "/static/media/pngtree-searching-hostel-banner-hotel-journey-image_1091602.c0341fba2ae2119a4bfb.jpg",
+    "static/media/hostels-pms.jpg": "/static/media/hostels-pms.1a323886d371545dab1b.jpg",
+    "static/media/lock-circle-blue-1024.webp": "/static/media/lock-circle-blue-1024.70baada1505c7b860415.webp",
+    "static/media/Aigis_logo.png": "/static/media/Aigis_logo.0f5df3625e3ef7f924d9.png",
+    "static/media/Hostel-Management-01-1024x281.webp": "/static/media/Hostel-Management-01-1024x281.ad5a7007cf6c88f1c107.webp",
+    "index.html": "/index.html",
+    "main.3a8bd002.css.map": "/static/css/main.3a8bd002.css.map",
+    "main.d8b87da9.js.map": "/static/js/main.d8b87da9.js.map",
+    "453.2edc2088.chunk.js.map": "/static/js/453.2edc2088.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a8bd002.css",
+    "static/js/main.d8b87da9.js"
+  ]
+}
